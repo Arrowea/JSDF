@@ -12,11 +12,11 @@ The F.O.B. build by us has been made into an outpost and reinforced by allied fo
 (1) Size – Enemy squad, platoon… 
 Unknown sizes. We have not received enough information about the enemy guerrilla forces in the area but we do know they have  AA/Artillery capabilities.
 (2) Activity – Enemy digging in, bivouacking 
-The enemy is regrouping and have been moving along MSR’s to dig in for a fight. Intel suggests that they have taken defensive positions around the AA/Artillery sites
+The enemy is regrouping and have been moving along MSR’s to dig in for a fight. Intel suggests that they have taken defensive positions around the AA/Artillery sites.
 (3) Location – Six-digit grid if possible 
 Further information about this will be displayed on the mission map.
 (4) Unit – Type and designation 
-The New Leadership
+The New Leadership.
 (5) Time – When the enemy was last observed (6) Equipment – Equipment they possess 
 Hidden away in AA/Artillery sites near the recent captured military base. Like last time they still use the same light/medium gear and equipment though there have been rumors of heavier reinforcements if our offense takes too long.
 ------------------------------------------------------------------------------------------------------------
