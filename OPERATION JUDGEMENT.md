@@ -79,9 +79,9 @@ Via arsenal which is located in the main F.O.B.
  3. Band-Aids   
 Via arsenal which is located in the main F.O.B.  
 4. Bad Guys  
-- Do not fire unless fired upon or ordered to take the shot.  
-- Surrendered enemies will be taken into custody and questioned for intel.  
-- Civilian casualties must at all times be kept as low as possible, since too many deaths may cause the populations to rise up against us.   
+Do not fire unless fired upon or ordered to take the shot.  
+Surrendered enemies will be taken into custody and questioned for intel.  
+Civilian casualties must at all times be kept as low as possible, since too many deaths may cause the populations to rise up against us.
 
 
 ***(E) Command/Signal
@@ -93,13 +93,13 @@ Transport Helo --- Transport 1
 Gives signal instructions for the operation such as frequencies, call signs, pyrotechnics, emergency signals, radio procedures, brevity codes, challenge and password.  
 
 Short Range  
-- 1-1: 110
-- 1-2: 120
-- 1-3 :130
+1-1: 110  
+1-2: 120  
+1-3 :130 
 
 Long Range  
-- Freq 50 = Platoon Comm
-- Freq 60 = HQ/Command
+Freq 50 = Platoon Comm  
+Freq 60 = HQ/Command  
 
-- Blue smoke = friendlies
-- White smoke = cover
+Blue smoke = friendlies  
+White smoke = cover
