@@ -1,13 +1,13 @@
-OPERATION JUDGEMENT
+## OPERATION JUDGEMENT
 
 OSMEAC
 
-***Orientation 
+#### ***Orientation 
 
 We are currently at the Military F.O.B. north east of Pyrgos. 
 
 
-***Situation:
+#### ***Situation
 
 (1) Size – Enemy squad, platoon…  
 Unknown sizes. We have not received enough information about the enemy at their current location.
@@ -34,7 +34,7 @@ Unknown. We have spotted their usual arsenal of weapons around. Though they may 
 (5) Delay - The enemy is defending not probing any opposition from what we can see.  
 
 
-***(B) Mission -
+#### ***(B) Mission
 
 After clearing some of the rubble of the towers we destroyed we have found more information which we can use to move on. The high ranking officer that fled when we took over the Military camp has been sighted in a town not too far away. For safety reasons the location of this officer will be kept strictly secret until our mission starts.
 The designated area shows a high amount of civilian presence, some armed. However we must win the hearts and minds of the locals due to the instability of the region to keep our mission on track and not lose what allegiance we have with them 
@@ -52,7 +52,7 @@ The focal point of friction will be to search and capture the high ranking offic
 JSDF was asked by the military of Altis to support them with taking down The New Leadership.
 
 
-***(c) Execution - 
+#### ***(C) Execution
 
 1. Concept of Operations -   
 JSDF will either inserted via Helo or go via vehicles located at the designated area. They are to carefully pick a way of approach to the secret location and infiltrate it either loudly or stealthily. The way to approach will result in how the target will respond. Guns blazing may get him to flee fast while it takes less long. Going in stealthily may take longer but gives a higher chance of getting closer. The way this goes is all up to the squad leads and the actions of our soldiers. The time we attack is also decided by them. Once the high ranking officer is in our custody there is a chance the enemy rather sees him dead then alive. Keep him alive at all costs. 
@@ -67,7 +67,7 @@ Sidenote: If we do not get enough people for 1-3 we will get a recon group again
  4) Get the target alive to the F.O.B.
 
 
-***(D) Administration and Logistics -
+#### ***(D) Administration and Logistics
 
 This paragraph contains information or instructions pertaining to rations and ammunition, location of the distribution point, corpsman, aid station, handling of prisoners of war, other administrative and supply matters. This is also known as the four 
 
@@ -84,7 +84,7 @@ Surrendered enemies will be taken into custody and questioned for intel.
 Civilian casualties must at all times be kept as low as possible, since too many deaths may cause the populations to rise up against us.
 
 
-***(E) Command/Signal
+#### ***(E) Command/Signal
 
 1.Command-   
 Transport Helo --- Transport 1  
