@@ -21,8 +21,11 @@ Further information about this will be displayed on the mission map.
 (4) Unit – Type and designation.  
 The New Leadership( Guerrilla Fighters) 
 
-(5) Time – When the enemy was last observed (6) Equipment – Equipment they possess.  
-Unknown. We have spotted their usual arsenal of weapons around. Though they may bring some heavier equipment.
+(5) Time – When the enemy was last observed   
+Unknown. 
+
+(6) Equipment – Equipment they possess.  
+We have spotted their usual arsenal of weapons around. Though they may bring some heavier equipment.  
 
 ------------------------------------------------------------------------------------------------------------
 
