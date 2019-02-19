@@ -9,19 +9,19 @@ We are currently at the Military F.O.B. north east of Pyrgos.
 
 ***Situation:
 
-(1) Size – Enemy squad, platoon… 
+(1) Size – Enemy squad, platoon…
 Unknown sizes. We have not received enough information about the enemy at their current location.
 
-(2) Activity – Enemy digging in, bivouacking 
+(2) Activity – Enemy digging in, bivouacking.
 The enemy is defending the location of the high ranking officer. They have active sky patrols of little birds as we have seen fly around before. They also have several roadblocks leading to said location.
 
-(3) Location – Six-digit grid if possible 
+(3) Location – Six-digit grid if possible.
 Further information about this will be displayed on the mission map.
 
-(4) Unit – Type and designation 
+(4) Unit – Type and designation.
 The New Leadership( Guerrilla Fighters) 
 
-(5) Time – When the enemy was last observed (6) Equipment – Equipment they possess 
+(5) Time – When the enemy was last observed (6) Equipment – Equipment they possess.
 Unknown. We have spotted their usual arsenal of weapons around. Though they may bring some heavier equipment.
 
 ------------------------------------------------------------------------------------------------------------
@@ -93,13 +93,13 @@ Transport Helo --- Transport 1
 Gives signal instructions for the operation such as frequencies, call signs, pyrotechnics, emergency signals, radio procedures, brevity codes, challenge and password.
 
 Short Range
-1-1: 110
-1-2: 120
-1-3 :130
+- 1-1: 110
+- 1-2: 120
+- 1-3 :130
 
 Long Range
-Freq 50 = Platoon Comm
-Freq 60 = HQ/Command
+- Freq 50 = Platoon Comm
+- Freq 60 = HQ/Command
 
-Blue smoke = friendlies
-White smoke = cover
+- Blue smoke = friendlies
+- White smoke = cover
