@@ -12,7 +12,7 @@ Our F.O.B. in Southern Sahrani at 046071.
 Small sized squads, unknown sized platoon.    
 
 (2) Activity – Enemy digging in, bivouacking.  
-The enemy will defending their caches and assaulting the town that we have captured.  
+The enemy is currently unseen but believed to attack us at any point during the convoy.
 
 (3) Location – Six-digit grid if possible.  
 F.O.B.: 046071  
@@ -27,7 +27,7 @@ Sahrani Liberation Army
 Not spotted yet.  
 
 (6) Equipment – Equipment they possess.  
-They enemies are using the same weapon types as our Russian enemies used on us last week.  
+Soviet Bloc weapons.
 
 ------------------------------------------------------------------------------------------------------------
 
